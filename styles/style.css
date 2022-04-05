@@ -1,3 +1,16 @@
-.head {
-  color: blueviolet;
+body {
+  background-color: rgb(214, 214, 214);
+}
+h1, h2, h3 {
+  text-align: center;
+}
+p {
+  color: rgb(119, 23, 7);
+  font-size: 17px;
+font-style: italic;
+text-indent: 0.5em;
+}
+h1, h2 {
+  color: white;
+  background-color: rgb(119, 23, 7);
 }
